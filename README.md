@@ -21,7 +21,7 @@ Stay organized, boost productivity, and achieve your goals with **ListNest**! Wh
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd listNest
+   cd listnest
    ```
 3. Open `index.html` in your favorite browser 🌐, and you're ready to go!  
 
