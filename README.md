@@ -14,7 +14,7 @@ Stay organized, boost productivity, and achieve your goals with **ListNest**! Wh
 
 ---
 
-## 🚀 **How to Use Taskify**
+## 🚀 **How to Use ListNest**
 1. Clone the repository to your local machine:  
    ```bash
    git clone https://github.com/your-username/listnest.git
