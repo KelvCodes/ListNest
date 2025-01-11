@@ -48,6 +48,7 @@ body {
     font-family: "Poppins", sans-serif; /* Modern font */
 }
 
+
 .homepage:hover {
     transform: scale(1.05); /* Subtle scaling on hover */
     box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7); /* Enhanced shadow effect */
