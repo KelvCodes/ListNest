@@ -27,7 +27,7 @@ Stay organized, boost productivity, and achieve your goals with **Taskify**! Whe
 
 ---
 
-## 🛠️ **Built With**
+## 🛠️ **Technologies**
 - **HTML5**: For a clean and accessible structure.  
 - **CSS3**: To style and create a responsive, visually appealing layout.  
 - **JavaScript**: For dynamic task management and functionality.  
