@@ -11,7 +11,7 @@
 - 🎨 **Engaging UI**: A beautiful interface with hover effects, animations, and soft colors.
 - 
 
-## 🔧 **Technologies Used**
+
  
  
  
