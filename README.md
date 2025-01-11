@@ -53,10 +53,7 @@ For major changes, please open an issue first to discuss your ideas.
 
 ---
 
-## 📜 **License**
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it. See the [LICENSE](LICENSE) file for more details.  
 
----
 
 💡 **Taskify** is more than just a to-do list—it's your productivity companion! Let us know what you think or share how Taskify is helping you get things done. 💬  
 
