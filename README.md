@@ -1,6 +1,6 @@
 # **Taskify - Simplify Your Productivity 📝✨**
 
-**Taskify** is a sleek, intuitive to-do list application d  
+ 
 
 
 
