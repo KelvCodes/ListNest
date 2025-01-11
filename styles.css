@@ -92,6 +92,7 @@ body {
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
 }
 
+
 /* Keyframe animation for fade-in effect */
 @keyframes fadeIn {
     from {
