@@ -4,7 +4,7 @@
 
 ## 🌟 **Features**
 - ✍️ **Add Tasks Quickly**: Seamlessly add tasks with a single click or press "Enter."
-- 🗑️ **Real-Time Task Deletion**: Easily remove completed tasks to keep your list clean.
+
 
 
 
