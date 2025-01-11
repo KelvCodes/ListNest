@@ -7,7 +7,7 @@
 - 🗑️ **Real-Time Task Deletion**: Easily remove completed tasks to keep your list clean.
 - 🕒 **Task History**: View a log of completed tasks with timestamps for reflection and tracking.
 - 📱 **Responsive Design**: Enjoy a user-friendly experience on any device.
-- 💾 **Persistent Storage**: Your tasks and history are saved in localStorage, ensuring they’re available every time you return.
+
 
 
 
