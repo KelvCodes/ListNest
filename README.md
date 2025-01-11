@@ -14,7 +14,7 @@
 ## 🔧 **Technologies Used**
 - **HTML**: For structuring the app layout.  
 - **CSS**: To create a visually appealing and responsive design.  
-- **JavaScript**: For dynamic functionality like adding, deleting, and managing tasks.  
+ 
 
 
 
