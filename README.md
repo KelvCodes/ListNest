@@ -18,8 +18,6 @@
 - **localStorage**: For persisting tasks and history across sessions.
 - 
 
-- ## 🚀 **How to Run the Project**
-
 
 # **Taskify - Your Ultimate To-Do List App 📝🎯**
 
