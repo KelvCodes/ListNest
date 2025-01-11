@@ -1,6 +1,6 @@
 # **Taskify - Simplify Your Productivity 📝✨**
 
-**Taskify** is a sleek, intuitive to-do list application designed to help you organize your tasks, boost productivity, and stay on top of your goals.  
+**Taskify** is a sleek, intuitive to-do list application d  
 
 
 
