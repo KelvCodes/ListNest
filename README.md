@@ -44,7 +44,7 @@ Stay organized, boost productivity, and achieve your goals with **ListNest**! Wh
 ---
 
 ## 🤝 **Contributing**
-We’d love your help in making **Taskify** even better!  
+We’d love your help in making **ListNest** even better!  
 - Fork the repository.  
 - Create a new branch for your feature or bug fix.  
 - Submit a pull request with your changes.  
