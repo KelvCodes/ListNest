@@ -1,4 +1,4 @@
-# **Taskify - Your Ultimate To-Do List App 📝🎯**
+# **ListNest - Your Ultimate To-Do List App 📝🎯**
 
 Stay organized, boost productivity, and achieve your goals with **Taskify**! Whether you're juggling work tasks 💼, planning a big project 📋, or keeping track of daily errands 🛒, **Taskify** has got you covered.  
 
