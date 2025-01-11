@@ -16,7 +16,7 @@
 - **CSS**: To create a visually appealing and responsive design.  
 - **JavaScript**: For dynamic functionality like adding, deleting, and managing tasks.  
 
-- 
+
 
 
 # **Taskify - Your Ultimate To-Do List App 📝🎯**
