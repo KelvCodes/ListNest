@@ -12,7 +12,7 @@
 - 
 
 ## 🔧 **Technologies Used**
-- **HTML**: For structuring the app layout.  
+ 
  
  
 
