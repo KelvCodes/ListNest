@@ -79,7 +79,6 @@ body {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
-
 #get-started-btn:hover {
     background: #F1C40F; /* Reverse gradient on hover */
     transform: translateY(-5px); /* Lift button on hover */
