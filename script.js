@@ -104,7 +104,7 @@ function getCurrentTime() {
     return `${hours}:${minutes} ${ampm}`;
 }
 
-// Load history on page load
+// Load the history on page load
 window.addEventListener("load", () => {
     const savedHistory = JSON.parse(localStorage.getItem("history")) || [];
     savedHistory.forEach((entry) => {
