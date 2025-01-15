@@ -84,7 +84,7 @@ function addToHistory(task) {
     historyItem.textContent = `${task} - ${time}`;
     historyContainer.appendChild(historyItem);
 
-    // Save history to localStorage
+    // Save the history to localStorage
     const currentHistory = JSON.parse(localStorage.getItem("history")) || [];
     currentHistory.push({ task, time });
     localStorage.setItem("history", JSON.stringify(currentHistory));
