@@ -57,7 +57,7 @@ function addTask() {
         return;
     }
 
-    // Create task item
+    // Create the task item
     const li = document.createElement("li");
     li.textContent = task;
 
