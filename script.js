@@ -30,8 +30,7 @@ listContainer.addEventListener("click", (e) => {
     }
 });
 
-
-    // Toggle the button text
+ // Toggle the button text
     if (historySection.classList.contains("hidden")) {
         showHistoryBtn.textContent = "Show History";
     } else {
