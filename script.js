@@ -45,7 +45,7 @@ clearHistoryBtn.addEventListener("click", () => {
 
 // Show the Todo app when "Get Started" button is clicked
 getStartedBtn.addEventListener("click", () => {
-    // Hide homepage and show Todo app
+    // Hide the homepage and show Todo app
     homepage.style.display = "none";
     todoApp.style.display = "block";
 });
