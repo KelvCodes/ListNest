@@ -3,7 +3,7 @@ const getStartedBtn = document.getElementById("get-started-btn");
 const homepage = document.getElementById("homepage");
 const todoApp = document.getElementById("todo-app");
 
-// Get elements for the Todo app
+// Get the elements for the Todo app
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 const historyContainer = document.getElementById("history-container");
