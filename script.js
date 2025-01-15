@@ -11,7 +11,7 @@ const showHistoryBtn = document.getElementById("show-history-btn");
 const historySection = document.querySelector(".history-section");
 const clearHistoryBtn = document.getElementById("clear-history-btn");
 
-// Event listeners
+//The Event listeners
 document.getElementById("add-btn").addEventListener("click", addTask);
 document.addEventListener("keydown", (e) => {
     if (e.key === "Enter") {
