@@ -1,4 +1,4 @@
-// Get elements for homepage and todo app
+// Get the elements for homepage and todo app
 const getStartedBtn = document.getElementById("get-started-btn");
 const homepage = document.getElementById("homepage");
 const todoApp = document.getElementById("todo-app");
