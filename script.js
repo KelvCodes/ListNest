@@ -18,7 +18,6 @@ document.addEventListener("keydown", (e) => {
         addTask();
     }
 });
-
 showHistoryBtn.addEventListener("click", () => {
     historySection.classList.toggle("hidden");
     
