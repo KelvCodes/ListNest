@@ -22,7 +22,7 @@ document.addEventListener("keydown", (e) => {
 showHistoryBtn.addEventListener("click", () => {
     historySection.classList.toggle("hidden");
     
-    // Event listener for deleting tasks
+    //The Event listener for deleting tasks
 listContainer.addEventListener("click", (e) => {
     if (e.target && e.target.matches("i.fa-solid.fa-trash")) {
         // Remove the task item (li)
