@@ -49,7 +49,7 @@ We’d love your help in making **ListNest** even better!
 - Create a new branch for your feature or bug fix.  
 - Submit a pull request with your changes.  
 
-For major changes, please open an issue first to discuss your ideas.  
+For major changes, please open an issue first to discuss your ideas openly.  
 
 ---
 
