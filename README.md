@@ -55,7 +55,7 @@ For major changes, please open an issue first to discuss your ideas openly.
 
 
 
-💡 **ListNest** is more than just a to-do list—it's your productivity companion! Let us know what you think or share how ListNest is helping you get things done with. 💬  
+💡 **ListNest** is more than just a to-do list—it's your productivity companion! Let us know what you think or share how ListNest is helping you get things done with ease. 💬  
 
 ---
 
