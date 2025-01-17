@@ -23,7 +23,7 @@ Stay well organized, boost productivity, and achieve your goals with **ListNest*
    ```bash
    cd listnest
    ```
-3. Open `index.html` in your favorite browser 🌐, and you're ready to go!  
+3. Open `index.html` in your favorite browser 🌐, and you're good to go!  
 
 ---
 
