@@ -14,7 +14,7 @@ Stay well organized, boost productivity, and achieve your goals with **ListNest*
 
 ---
 
-## 🚀 **How to Use ListNest**
+## 🚀 **How to Get ListNest**
 1. Clone the repository to your local machine:  
    ```bash
    git clone https://github.com/your-username/listnest.git
