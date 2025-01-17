@@ -4,7 +4,7 @@ Stay organized, boost productivity, and achieve your goals with **ListNest**! Wh
 
 ---
 
-## 🌟 **Key Features**
+## 🌟 **Key Features of ListNest**
 - ✍️ **Add Tasks Effortlessly**: Quickly add tasks with a single click or by pressing "Enter."  
 - 🗑️ **Easy Task Removal**: Clean up your to-do list by deleting completed tasks in real-time.  
 - 🕒 **Task History**: Keep track of completed tasks with timestamps to review your progress.  
