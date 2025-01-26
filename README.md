@@ -70,11 +70,10 @@ For major changes, please open an issue first to discuss your ideas openly or co
 
 ---
 
-### 💡 Support My Work  
-If you enjoy my projects, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
-
 💡 **ListNest** is more than just a to-do list—it's your productivity companion! Let us know what you think or share how ListNest is helping you get things done with ease. 💬  
 
 ---
 
+### 💡 Support My Work  
+If you enjoy my projects, feel free to [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kelvcodes) 
 
