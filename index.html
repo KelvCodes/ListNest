@@ -1,3 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelvin's Todo List</title>
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="web.jpg" type="image/jpg">
+</head>
+<body>
+    <!-- Homepage Section -->
+    <div class="homepage" id="homepage">
+        <h1>Welcome to Listify!</h1>
+        <p>Simplify your task with style. Click below to get started.</p>
+        <button id="get-started-btn">Get Started</button>
+    </div>
+
+    <!-- Todo App Section (Initially Hidden) -->
+    <div class="todo-app" id="todo-app" style="display: none;">
+        <header>
+            <h1>Todo List</h1>
+        </header>
+        <main>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add Task">
+                <button id="add-btn">Add</button>
+            </div>
+            <ul id="list-container"></ul>
+            <button id="show-history-btn">Show History</button>
+            <section class="history-section hidden">
+                <h2>History</h2>
+                <ul id="history-container"></ul>
+                <button id="clear-history-btn">Clear History</button>
+            </section>
+        </main>
+        <footer>
+            <div class="profile">
+                <img src="main.jpg" alt="Agyare Kelvin Yeboah" class="profile-img">
+                <p>
+                    Agyare Kelvin Yeboah, <span class="title">Full Stack Developer</span>
+                </p>
+            </div>
+            <p>&copy; 2025 Kelvin's Todo List. All Rights Reserved.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
 
 
 
