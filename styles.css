@@ -1,11 +1,4 @@
-nter;
-    gap: 2rem;
-    text-align: center;
-    z-index: 10;
-}
 
-/*Homepage styling*/
-.homepage {
     display: flex;
     flex-direction: column;
     align-items: center;
