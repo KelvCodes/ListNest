@@ -1,15 +1,4 @@
-
-
-.homepage h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-    font-weight: 700;
-    color: #ffffff; /* Bright, bold heading */
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Subtle text shadow */
-}
-
-.homepage p {
-    font-size: 1.2rem;
+ize: 1.2rem;
     margin-bottom: 2rem;
     line-height: 1.6;
     color: #e0e0e0; /* Softer white for body text */
