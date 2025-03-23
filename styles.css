@@ -1,17 +1,5 @@
 ansition: color 0.3s ease;
-}
-
-ul li span:hover {
-    color: #F1C40F;
-}
-
-/* History Section Styling */
-.hidden {
-    display: none;
-}
-
-.history-section {
-    margin-top: 20px;
+px;
     background: rgba(0, 0, 0, 0.7);
     padding: 20px;
     border-radius: 15px;
