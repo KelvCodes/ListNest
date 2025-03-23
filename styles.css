@@ -1,16 +1,4 @@
-{
-        font-size: 1rem;
-        padding: 0.6rem 1.5rem;
-    }
-}
-
-/* Todo App Styling */
-.todo-app {
-    width: 600px;
-    background: rgba(0, 0, 0, 0.4);
-    backdrop-filter: blur(20px);
-    padding: 40px;
-    border-radius: 1.5rem;
+em;
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
     display: none;
     flex-direction: column;
