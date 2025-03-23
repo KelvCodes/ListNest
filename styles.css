@@ -1,15 +1,4 @@
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 2rem;
-    background: rgb(110, 106, 58); /* Gradient background for vibrancy */
-    border-radius: 1.5rem;
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5); /* Softer shadow for depth */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    animation: fadeIn 1s ease-in-out;
 
     /* Optional responsiveness */
     max-width: 90%;
