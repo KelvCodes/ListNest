@@ -1,15 +1,6 @@
 
 input:focus {
-    outline: none;
-    border-color: #FF5733;
-    background: rgba(255, 255, 255, 0.2);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
-}
-
-button {
-    padding: 15px 35px;
-    background: linear-gradient(135deg, #FF5733, #F1C40F);
-    color: white;
+  ;
     border: none;
     border-radius: 20px;
     cursor: pointer;
