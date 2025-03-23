@@ -1,16 +1,4 @@
-
-
-ul li:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: translateX(10px);
-}
-
-/* Delete Icon */
-ul li span {
-    cursor: pointer;
-    color: #FF5733;
-    font-weight: 700;
-    transition: color 0.3s ease;
+ansition: color 0.3s ease;
 }
 
 ul li span:hover {
