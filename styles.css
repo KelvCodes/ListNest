@@ -1,13 +1,5 @@
 ize: 1.2rem;
-    margin-bottom: 2rem;
-    line-height: 1.6;
-    color: #e0e0e0; /* Softer white for body text */
-}
-
-#get-started-btn {
-    padding: 0.8rem 2rem;
-    font-size: 1.2rem;
-    font-weight: bold;
+t: bold;
     color: #ffffff;
     background: rgba(73, 30, 29, 0.642); /* Eye-catching gradient */
     border: none;
