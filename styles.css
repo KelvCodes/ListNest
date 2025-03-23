@@ -1,16 +1,4 @@
-
-/* Optional responsive adjustments for smaller screens */
-@media (max-width: 768px) {
-    .homepage h1 {
-        font-size: 2rem;
-    }
-    
-
-    .homepage p {
-        font-size: 1rem;
-    }
-
-    #get-started-btn {
+{
         font-size: 1rem;
         padding: 0.6rem 1.5rem;
     }
