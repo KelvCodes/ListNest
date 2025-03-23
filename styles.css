@@ -1,15 +1,3 @@
-ize: 1.2rem;
-t: bold;
-    color: #ffffff;
-   10px 20px rgba(0, 0, 0, 0.3);
-}
-
-#get-started-btn:hover {
-    background: #F1C40F; /* Reverse gradient on hover */
-    transform: translateY(-5px); /* Lift button on hover */
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
-}
-
 
 /* Keyframe animation for fade-in effect */
 @keyframes fadeIn {
