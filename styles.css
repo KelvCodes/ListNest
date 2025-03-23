@@ -1,12 +1,7 @@
 ize: 1.2rem;
 t: bold;
     color: #ffffff;
-    background: rgba(73, 30, 29, 0.642); /* Eye-catching gradient */
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: background 0.3s ease, transform 0.3s ease;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+   10px 20px rgba(0, 0, 0, 0.3);
 }
 
 #get-started-btn:hover {
