@@ -1,14 +1,4 @@
-/* General Styles */
-body {
-    font-family: "Poppins", sans-serif;
-    background: url("./bg.jpg") no-repeat center center fixed;
-    background-size: cover;
-    color: white;
-    padding-top: 2rem;
-    overflow-x: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+: center;
     height: 100vh;
     margin: 0;
     backdrop-filter: blur(15px);
