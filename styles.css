@@ -1,15 +1,4 @@
-: center;
-    height: 100vh;
-    margin: 0;
-    backdrop-filter: blur(15px);
-}
-
-/* Container Styling*/
-.container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+nter;
     gap: 2rem;
     text-align: center;
     z-index: 10;
