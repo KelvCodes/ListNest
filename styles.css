@@ -1,17 +1,5 @@
 
 
-ul li {
-    padding: 18px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 12px;
-    margin-bottom: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 20px;
-    transition: all 0.3s ease;
-}
-
 ul li:hover {
     background: rgba(255, 255, 255, 0.2);
     transform: translateX(10px);
