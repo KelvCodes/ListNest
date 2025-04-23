@@ -1,11 +1,3 @@
-h
-  linear-gradient(135deg, #4B5EAA, #A3BFFA);
-    border: none;
-    border-radius: 30px;
-    color: #FFFFFF;
-    cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
 
 #get-started-btn:hover {
     transform: scale(1.05);
