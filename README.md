@@ -29,7 +29,7 @@ Stay well organized, boost productivity, and achieve your goals with **ListNest*
 
 ## 🛠️ **Technologies Used**
 - **HTML5**: For a clean and accessible structure.  
-- **CSS3**: To style and create a responsive, visually appealing layout you see.  
+
  
  
 
