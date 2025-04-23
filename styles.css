@@ -4,13 +4,7 @@
 
 .spinner {
     animation: spin 4s linear infinite;
-}
-
-.falling {
-    animation: fall 6s linear infinite;
-}
-
-.spinner:nth-child(1) { top: 20%; left: 10%; }
+}p: 20%; left: 10%; }
 .spinner:nth-child(3) { top: 60%; right: 15%; }
 .falling:nth-child(2) { top: -10%; left: 40%; animation-delay: 2s; }
 .falling:nth-child(4) { top: -20%; right: 30%; animation-delay: 4s; }
