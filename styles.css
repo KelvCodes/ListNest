@@ -1,12 +1,5 @@
 h
-    color: #A3BFFA;
-   2rem;
-}
-
-#get-started-btn {
-    padding: 1rem 2rem;
-    font-size: 1.1rem;
-    background: linear-gradient(135deg, #4B5EAA, #A3BFFA);
+  linear-gradient(135deg, #4B5EAA, #A3BFFA);
     border: none;
     border-radius: 30px;
     color: #FFFFFF;
