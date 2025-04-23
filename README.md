@@ -28,7 +28,7 @@ Stay well organized, boost productivity, and achieve your goals with **ListNest*
 ---
 
 ## 🛠️ **Technologies Used**
-- **HTML5**: For a clean and accessible structure.  
+
 
  
  
