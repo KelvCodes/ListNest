@@ -28,7 +28,7 @@ Stay well organized, boost productivity, and achieve your goals with **ListNest*
 ---
 
 ## 🛠️ **Technologies Used**
-
+| **Technology**  | **Purpose** |
 
  
  
