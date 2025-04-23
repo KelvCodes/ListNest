@@ -1,3 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listify - Kelvin's Todo App</title>
+    <meta name="description" content="A beautiful todo app to organize your tasks">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="web.jpg" type="image/jpg">
+</head>
+<body>
+    <!-- Loading Indicator -->
+    <div class="loading-overlay hidden">
+        <div class="spinner"></div>
+    </div>
 
+    <!-- Homepage Section -->
+    <div class="homepage" id="homepage">
+        <div class="hero">
+            <h1>Listify</h1>
+            <p>Your tasks, organized with flair.</p>
+            <button id="get-started-btn" type="button" aria-label="Get started with Listify">Dive In</button>
+        </div>
+        <div class="decorations" aria-hidden="true">
+            <span class="spinner"><i class="fas fa-star"></i></span>
+            <span class="falling"><i class="fas fa-circle"></i></span>
+            <span class="spinner"><i class="fas fa-square"></i></span>
+            <span class="falling"><i class="fas fa-triangle"></i></span>
+        </div>
+    </div>
+
+    <!-- Todo App Section -->
+    <div class="todo-app" id="todo-app">
+        <header>
+            <h1><i class="fas fa-tasks" aria-hidden="true"></i> Listify</h1>
+            <div class="theme-toggle">
+                <button id="theme-toggle-btn" aria-label="Toggle dark mode">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </header>
+        <main>
+            <div class="input-container">
+                <input type="text" id="input-box" placeholder="Add a task..." required aria-label="Task input">
+                <select id="category-select" aria-label="Task category">
+                    <option value="Personal">Personal</option>
+                    <option value="Work">Work</option>
+                    <option value="Urgent">Urgent</option>
+                </select>
+                <input type="date" id="due-date" aria-label="Due date">
+                <button id="add-btn" type="button" aria-label="Add task"><i class="fas fa-plus"></i> Add</button>
+            </div>
+            
+            <div class="filter-controls">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="Personal">Personal</button>
+                <button class="filter-btn" data-filter="Work">Work</button>
+                <button class="filter-btn" data-filter="Urgent">Urgent</button>
+            </div>
+            
+            <div class="task-stats">
+                <p>Total: <span id="total-tasks">0</span></p>
+                <p>Done: <span id="completed-tasks">0</span></p>
+                <p>Pending: <span id="pending-tasks">0</span></p>
+            </div>
+            
+            <div class="todo-list-container">
+                <ul id="list-container" aria-label="Task list"></ul>
+            </div>
+            
+            <div class="controls">
+                <button id="show-history-btn" type="button"><i class="fas fa-history"></i> History</button>
+                <button id="clear-all-btn" type="button"><i class="fas fa-trash-alt"></i> Clear All</button>
+                <button id="undo-btn" type="button" class="hidden"><i class="fas fa-undo"></i> Undo</button>
+            </div>
+            
+            <section class="history-section hidden" aria-label="Task history">
+                <h2><i class="fas fa-clock"></i> History</h2>
+                <ul id="history-container"></ul>
+                <button id="clear-history-btn" type="button"><i class="fas fa-eraser"></i> Clear History</button>
+            </section>
+        </main>
+        
+        <footer>
+            <div class="profile">
+                <img src="main.jpg" alt="Agyare Kelvin Yeboah" class="profile-img">
+                <p>Agyare Kelvin Yeboah, <span class="title">Full Stack Developer</span></p>
+            </div>
+            <p>© <span id="current-year">2025</span> Listify. All Rights Reserved.</p>
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
    
   
