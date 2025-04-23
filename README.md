@@ -31,7 +31,7 @@ Stay well organized, boost productivity, and achieve your goals with **ListNest*
 - **HTML5**: For a clean and accessible structure.  
 - **CSS3**: To style and create a responsive, visually appealing layout you see.  
 - **JavaScript**: For dynamic task management and functionality.  
-- **localStorage**: To save your tasks and history for future sessions.  
+ 
 
 ---
 
